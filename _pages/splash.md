@@ -12,7 +12,7 @@ header:
   caption: 
 excerpt: "Meet all of your digital needs from website development to digital marketing. Stay up-to-date on the latest trends and get ahead of the competition."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: '*Great SEO starts comes organically from great marketing. When you create valuable content with a well-tailed user experience, the links will come naturally.*'
 feature_row:
   - image_path: assets/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg
     alt: "Search traffic analytics data"
@@ -22,38 +22,26 @@ feature_row:
     image_caption: 
     alt: "Wordpress logo"
     title: "Wordpress Development"
-    excerpt: "We know the latest and greatest plugins to keep your site ahead of the competition."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+    excerpt: "Don't fall behind with an out-of-date Wordpress installation, get ahead of the competition with the latest features and plugins!"
   - image_path: /assets/images/tim-mossholder-qvWnGmoTbik-unsplash.jpg
     alt: "Thank you for shopping local sign"
     title: "Locally Sourced"
     excerpt: "Get Local SEO expertised from a local source and reach new customers in your area!"
 feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/alexander-sinn-KgLtFCgfC28-unsplash.jpg
+    alt: "Heart made of ones and zeros"
+    title: "We Love Getting Technical"
+    excerpt: "From the basics of XML sitemaps and robots.txt to more advanced topics such as optimizing the critical rendering path and Google's new page experience ranking, we love it all!"
 feature_row3:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/claudio-schwarz-uENjpJ0sCb0-unsplash.jpg
+    alt: "Google search on a smartphone"
+    title: "Mobile-First Approach"
+    excerpt: "Mobile traffic has shown us that its importance will only continue to grow. Learn how to be prepared for any user device with a mobile-first approach."
 feature_row4:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
+  - image_path: /assets/images/caspar-camille-rubin-89xuP-XmyrA-unsplash.jpg
+    alt: "Code displayed on a smartphone"
+    title: "Prepare for the Future"
+    excerpt: "Don't be caught unaware; be advised on how you can prepare for future web developments, such at HTTP/3. You're at least using HTTP/2, right?"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -64,4 +52,4 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="left" %}
