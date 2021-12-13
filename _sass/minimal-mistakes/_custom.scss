@@ -2,3 +2,45 @@
    Custom SCSS
    ========================================================================== */
 
+   .page {
+    #page-title {
+        text-align: center;
+    }
+
+    @include breakpoint($large) {
+        float: none;
+        width: 100%;
+        padding: 0px;
+        margin: auto;
+        text-align: center;
+    }
+  
+    @include breakpoint($x-large) {
+        width: 100%;
+        padding: 0px;
+        margin: auto;
+    }
+
+    .page__inner-wrap {
+        display: inline-block;
+        float: none;
+        margin-top: 1em;
+        margin-left: 0;
+        margin-right: 0;
+        width: 80%;
+        clear: both;
+        text-align: initial;
+    
+        .page__content,
+        .page__meta,
+        .page__share {
+          position: relative;
+          float: left;
+          margin-left: auto;
+          margin-right: auto;
+          width: 100%;
+          clear: both;
+          text-align: initial;
+        }
+    }
+}
