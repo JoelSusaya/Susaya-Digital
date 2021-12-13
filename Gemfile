@@ -7,6 +7,7 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 gem "jekyll"
 gem "minimal-mistakes-jekyll"
+gem 'jekyll-compress-images'
 
 # The following plugins are automatically loaded by the theme-gem:
 #   gem "jekyll-paginate"
