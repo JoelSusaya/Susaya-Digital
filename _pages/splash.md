@@ -14,7 +14,7 @@ excerpt: "Meet all of your digital needs from website development to digital mar
 intro: 
   - excerpt: '*Great SEO starts comes organically from great marketing. When you create valuable content with a well-tailed user experience, the links will come naturally.*'
 feature_row:
-  - image_path: assets/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg
+  - image_path: assets/images/stephen-dawson-qwtCeJ5cLYs-unsplash-cropped.jpg
     alt: "Search traffic analytics data"
     title: "Data-Driven Approach"
     excerpt: "Don't just track page views, but conversions. Make sure your leads are generating value."
