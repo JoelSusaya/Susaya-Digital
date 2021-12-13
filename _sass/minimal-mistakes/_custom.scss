@@ -2,7 +2,7 @@
    Custom SCSS
    ========================================================================== */
 
-   .page {
+.page {
     #page-title {
         text-align: center;
     }
@@ -43,4 +43,8 @@
           text-align: initial;
         }
     }
+}
+
+form {
+    background-color: #282e40;
 }
