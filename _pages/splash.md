@@ -8,7 +8,7 @@ header:
   overlay_image: /assets/images/nasa-1lfI7wkGWZ4-unsplash.webp
   actions:
     - label: "Get in Touch"
-      url: ""
+      url: /contact-us/
   caption: 
 excerpt: "Meet all of your digital needs from website development to digital marketing. Stay up-to-date on the latest trends and get ahead of the competition."
 intro: 
