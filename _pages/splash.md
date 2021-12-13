@@ -18,7 +18,7 @@ feature_row:
     alt: "Search traffic analytics data"
     title: "Data-Driven Approach"
     excerpt: "Don't just track page views, but conversions. Make sure your leads are generating value."
-  - image_path: /assets/images/moritz-mentges-5MlBMYDsGBY-unsplash.jpg
+  - image_path: /assets/images/souvik-banerjee--WPrNEM_6dg-unsplash.jpg
     image_caption: 
     alt: "Wordpress logo"
     title: "Wordpress Development"
