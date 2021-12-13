@@ -14,21 +14,22 @@ excerpt: "Meet all of your digital needs from website development to digital mar
 intro: 
   - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/stephen-dawson-qwtCeJ5cLYs-unsplash.jpg
+    alt: "Search traffic analytics data"
+    title: "Data-Driven Approach"
+    excerpt: "Don't just track page views, but conversions. Make sure your leads are generating value."
+  - image_path: /assets/images/moritz-mentges-5MlBMYDsGBY-unsplash.jpg
+    image_caption: 
+    alt: "Wordpress logo"
+    title: "Wordpress Development"
+    excerpt: "We know the latest and greatest plugins to keep your site ahead of the competition."
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/tim-mossholder-qvWnGmoTbik-unsplash.jpg
+    alt: "Thank you for shopping local sign"
+    title: "Locally Sourced"
+    excerpt: "Get Local SEO expertised from a local source and reach new customers in your area!"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
