@@ -23,7 +23,7 @@ name                     : "Joel Susaya"
 description              : "Susaya Digital is a web development and digital marketing agency focused on helping 
                             local businesses near Hartford, Connecticut. Whether you need a new website or help
                             with your existing one, we're here for you!"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://susayadigital.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "JoelSusaya/Susaya-Digital" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -56,8 +56,8 @@ comments:
     branch               : # "master"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
-  siteKey                :
-  secret                 :
+  siteKey                : "6LdQlp0dAAAAALpS2qusr7butYK1XA3LbnodE63s"
+  secret                 : "6LdQlp0dAAAAAAXMQQeMQYqWUD5QX7SjPZXpRdw7"
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
@@ -105,7 +105,7 @@ analytics:
 # Site Author
 author:
   name             : "Joel Susaya"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/people/joel.jpg"
   bio              : "I has been working as a digital marketer for a decade and as a web developer for half that time. 
                       Whether you need technical expertise, marketing knowledge, or strategic advice, I'm here to help!"
   location         : "Hartford, Connecticut"
