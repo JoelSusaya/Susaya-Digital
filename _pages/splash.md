@@ -2,6 +2,8 @@
 title: "Web Experience Expertise"
 layout: splash
 permalink: /
+seo_description: "Susaya Digital is a digital marketing and web development company focused on bringing SEO services
+                  to small businesses."
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
@@ -16,8 +18,9 @@ intro:
 feature_row:
   - image_path: assets/images/stephen-dawson-qwtCeJ5cLYs-unsplash.webp
     alt: "Search traffic analytics data"
-    title: "Data-Driven Approach"
-    excerpt: "Don't just track page views, but conversions. Make sure your leads are generating value."
+    title: "Data-Driven Marketing"
+    excerpt: "Don't just track page views, but conversions. Make sure your leads are generating value, both for you and your
+              users."
   - image_path: /assets/images/souvik-banerjee--WPrNEM_6dg-unsplash.webp
     image_caption: 
     alt: "Wordpress logo"
@@ -31,7 +34,7 @@ feature_row2:
   - image_path: /assets/images/alexander-sinn-KgLtFCgfC28-unsplash.webp
     alt: "Heart made of ones and zeros"
     title: "We Love Getting Technical"
-    excerpt: "From the basics of XML sitemaps and robots.txt to more advanced topics such as optimizing the critical rendering path and Google's new page experience ranking, we love it all!"
+    excerpt: "From the basics of XML sitemaps and robots.txt to more advanced topics such as site migrations and optimizing the critical rendering path, we have you covered with the up-to-date industry practices."
 feature_row3:
   - image_path: /assets/images/claudio-schwarz-uENjpJ0sCb0-unsplash.webp
     alt: "Google search on a smartphone"
