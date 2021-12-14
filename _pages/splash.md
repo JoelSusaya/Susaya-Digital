@@ -45,6 +45,10 @@ feature_row4:
     alt: "Code displayed on a smartphone"
     title: "Prepare for the Future"
     excerpt: "Don't be caught unaware; be advised on how you can prepare for future web developments, such at HTTP/3. You're at least using HTTP/2, right?"
+contact:
+  - url: /contact-us/
+    btn_label: "Contact Us"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -55,4 +59,4 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="left" %}
+{% include feature_row id="contact" type="center" %}
