@@ -29,6 +29,7 @@ repository               : "JoelSusaya/Susaya-Digital" # GitHub username/repo-na
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : assets/images/logo/susaya digital main logo light blue.svg
 logo_small               : assets/images/logo/susaya digital square logo light blue no background.svg
+favicon                  : assets/images/logo/susaya digital square logo light blue no bg 32px.png
 masthead_title           : "Susaya Digital"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
