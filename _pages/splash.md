@@ -14,7 +14,7 @@ header:
   caption: 
 excerpt: "Meet all of your digital needs from website development to digital marketing. Stay up-to-date on the latest trends and get ahead of the competition."
 intro: 
-  - excerpt: '*Great SEO starts comes organically from great marketing. When you create valuable content with a well-tailed user experience, the links will come naturally.*'
+  - excerpt: '*Great SEO starts comes organically from great marketing. When you create valuable content with a well-tailed user experience, people will visit naturally.*'
 feature_row:
   - image_path: assets/images/stephen-dawson-qwtCeJ5cLYs-unsplash.webp
     alt: "Search traffic analytics data"

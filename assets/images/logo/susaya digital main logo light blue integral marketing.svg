@@ -8,7 +8,7 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.1 (c68e22c387, 2021-05-23)"
-   sodipodi:docname="susaya digital main logo light blue.svg"
+   sodipodi:docname="susaya digital main logo light blue integral marketing.svg"
    inkscape:export-filename="C:\Users\joel.susaya\Pictures\susaya digital\susaya digital linkedin cover integral marketing orange light blue no bg 80px.webp"
    inkscape:export-xdpi="22.370573"
    inkscape:export-ydpi="22.370573"
@@ -34,7 +34,7 @@
      inkscape:window-x="3832"
      inkscape:window-y="544"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g179913" />
+     inkscape:current-layer="g179315" />
   <defs
      id="defs2">
     <rect
@@ -320,9 +320,23 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:186.667px;line-height:1.25;font-family:Sora;-inkscape-font-specification:Sora;white-space:pre;shape-inside:url(#rect179915);fill:#80b3ff;fill-opacity:1;stroke:none"><tspan
          x="524.50391"
          y="276.57799"
-         id="tspan676"><tspan
+         id="tspan535"><tspan
            style="font-family:'Asap Condensed';-inkscape-font-specification:'Asap Condensed, '"
-           id="tspan674">∫</tspan></tspan></text>
+           id="tspan533">∫</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g179315"
+     inkscape:label="Integral Marketing Light Blue copy"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-67.771923,-0.93345272)"
+       id="text179313"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:1.25;font-family:Philosopher;-inkscape-font-specification:Philosopher;white-space:pre;shape-inside:url(#rect179317);fill:#80b3ff;fill-opacity:1;stroke:none"><tspan
+         x="893.13086"
+         y="309.92801"
+         id="tspan537">Integral Marketing</tspan></text>
   </g>
   <g
      inkscape:label="Light Blue"
@@ -341,9 +355,9 @@
        style="font-style:normal;font-weight:normal;font-size:117.243px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect179781);fill:#80b3ff;fill-opacity:1;stroke:none"><tspan
          x="598.23047"
          y="191.27715"
-         id="tspan680"><tspan
+         id="tspan541"><tspan
            style="font-weight:bold;font-family:Sora;-inkscape-font-specification:'Sora Bold'"
-           id="tspan678">Digital</tspan></tspan></text>
+           id="tspan539">Digital</tspan></tspan></text>
   </g>
   <g
      inkscape:label="Orange Text"
@@ -362,8 +376,8 @@
        style="font-style:normal;font-weight:normal;font-size:120px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect177699);fill:#ff6600;fill-opacity:1;stroke:none"><tspan
          x="49.501953"
          y="214.80869"
-         id="tspan684"><tspan
+         id="tspan545"><tspan
            style="font-weight:bold;font-family:Sora;-inkscape-font-specification:'Sora Bold'"
-           id="tspan682">Susaya</tspan></tspan></text>
+           id="tspan543">Susaya</tspan></tspan></text>
   </g>
 </svg>
