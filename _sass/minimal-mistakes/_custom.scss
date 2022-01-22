@@ -61,3 +61,32 @@ form {
 .site-logo img {
     max-height: 2.5rem;
 }
+
+/* Small Text Fix */
+em {
+    font-size: 1.1em;
+}
+
+@media screen and (max-width: $small){
+    .page__content p, .page__content li, .page__content dl, em {
+        font-size: 1.2em;
+    }
+}
+
+
+/* Button Color */
+
+.btn--primary {
+    background-color: #ff6600;
+    color: #fff;
+}
+
+.btn--primary:hover {
+    background-color: #f59352;
+    color: #000;
+}
+
+/* Link Color */
+.greedy-nav .visible-links a:before {
+    background: #ff6600;
+}
